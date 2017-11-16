@@ -1,0 +1,28 @@
+.banner {
+    background-color: #738095;
+}
+
+h1 {
+    display: inline-block;
+}
+
+/* Icons at the top banner */
+
+#icons {
+    display: inline-block;
+    margin-left:300px;
+    vertical-align: -15px;
+}
+
+.icon {
+    width: 40px;
+    padding: 5px;
+}
+
+#search{
+    float: right
+}
+
+}
+
+div {}
