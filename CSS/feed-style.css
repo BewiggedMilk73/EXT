@@ -8,10 +8,8 @@ h1 {
 
 /* Icons at the top banner */
 
-#icons {
-    display: inline-block;
-    margin-left:300px;
-    vertical-align: -15px;
+#search{
+    float: right;
 }
 
 .icon {
@@ -19,10 +17,42 @@ h1 {
     padding: 5px;
 }
 
-#search{
-    float: right
+#icons {
+    display: block; margin-left: auto; margin-right: auto;
+    text-align: center;
 }
+
+
 
 }
 
 div {}
+
+h2 {
+    display: inline-block;
+}
+
+/* Discover Box */
+
+.discover{
+    width: 250px;
+    height: 500px;
+    background-color: #738095
+}
+
+h3 {
+    text-align: center;
+    font-size: 35px;
+}
+
+/* Trends Box */
+
+.trends{
+    width: 250px;
+    height: 200px;
+    background-color: #738095;
+}
+h4 {
+    text-align: center;
+    font-size: 35px;
+}
